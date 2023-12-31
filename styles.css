@@ -1,0 +1,19 @@
+h1, 
+h2 {
+    font-family: Verdana, Tahoma, sans-serif;
+    color: rgb(161, 96, 78);
+}
+
+p,
+li, h6{
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+h6{
+    color: rgb(114, 111, 111);
+}
+
+.picture {
+    width: 600px;
+    height: auto;
+}
