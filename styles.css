@@ -1,12 +1,28 @@
+body{
+    background: rgba(161, 96, 78, 0.679);
+}
+
+div{
+    background: white;
+    width: 800px;
+    padding: 20px;
+    margin: 0px auto;
+}
+
 h1, 
 h2 {
     font-family: Verdana, Tahoma, sans-serif;
     color: rgb(161, 96, 78);
 }
 
-p,
-li, h6{
+h1, h6{
+    text-align: center;
+}
+
+p, li,
+h6{
     font-family: Verdana, Tahoma, sans-serif;
+    width: 800px;
 }
 
 h6{
@@ -16,4 +32,11 @@ h6{
 .picture {
     width: 600px;
     height: auto;
+    display: block;
+    margin: 0px auto;
+}
+
+li p{
+    font-family: Verdana, Tahoma, sans-serif;
+    width: 750px;
 }
